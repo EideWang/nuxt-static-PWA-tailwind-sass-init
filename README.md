@@ -1,4 +1,9 @@
 # nuxt-static-PWA-tailwind-sass-init
+### This is a quick setup for a Nuxt project with the following settings
+- PWA
+- Tailwind
+- Sass
+- Google font Roboto
 
 ## Build Setup
 
