@@ -14,8 +14,8 @@ customize your Tailwind in ~/assets/css/tailwind.css and tailwind.config.js
 ***
 > After cloning the repo, don't forget to 
 >   - Change the project folder name 
->   - Change the head title in nuxt.config.js
->   - Change name in both package.json and package-lock.json
+>   - Change the _head title_ in nuxt.config.js
+>   - Change _name_ in both package.json and package-lock.json
 ***
 
 ## Build Setup
