@@ -1,14 +1,17 @@
 # nuxt-static-PWA-tailwind-sass-init
-### This is a quick setup for a Nuxt project with the following settings
+### This is a quick setup for a static Nuxt project with the following settings
+- Axios
 - PWA
 - Tailwind
 - Sass
 - Google font Roboto
 
+
 > After cloning the repo, don't forget to 
 >   - Change the project folder name 
 >   - Change the head title in nuxt.config.js
 >   - Change name in both package.json and package-lock.json
+
 
 ## Build Setup
 
