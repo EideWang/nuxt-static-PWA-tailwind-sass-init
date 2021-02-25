@@ -6,17 +6,17 @@
 - Sass
 - Google font Roboto
 
-
-#### customize your Sass in ~/assets/css/main.scss
-#### customize your Tailwind in ~/assets/css/tailwind.css and tailwind.config.js
-
-
-
+### CSS Customization
+customize your Sass in ~/assets/css/main.scss <br/>
+customize your Tailwind in ~/assets/css/tailwind.css and tailwind.config.js
+<br/>
+<br/>
+***
 > After cloning the repo, don't forget to 
 >   - Change the project folder name 
 >   - Change the head title in nuxt.config.js
 >   - Change name in both package.json and package-lock.json
-
+***
 
 ## Build Setup
 
