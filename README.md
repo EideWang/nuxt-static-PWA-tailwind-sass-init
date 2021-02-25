@@ -23,3 +23,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+### After cloning the repo, don't forget to change the project folder name and the head title in nuxt.config.js
