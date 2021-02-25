@@ -5,7 +5,10 @@
 - Sass
 - Google font Roboto
 
-> After cloning the repo, don't forget to change the project folder name and the head title in nuxt.config.js
+> After cloning the repo, don't forget to 
+>   - Change the project folder name 
+>   - Change the head title in nuxt.config.js
+>   - Change name in both package.json and package-lock.json
 
 ## Build Setup
 
