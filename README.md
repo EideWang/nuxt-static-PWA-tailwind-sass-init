@@ -4,7 +4,7 @@
 - PWA
 - Tailwind
 - Sass
-- Google font Roboto
+- Google font Roboto (default loaclly import)
 
 ### CSS Customization
 customize your Sass in ~/assets/css/main.scss <br/>
