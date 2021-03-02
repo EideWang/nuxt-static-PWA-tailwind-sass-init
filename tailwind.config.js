@@ -22,7 +22,7 @@ module.exports = {
       md: '768px',
       lg: '1024px',
       xl: '1280px',
-      '2xl': '1536px',
+      xxl: '1536px',
       //Microsoft docs https://docs.microsoft.com/en-us/windows/uwp/design/layout/screen-sizes-and-breakpoints-for-responsive-design
       tablet: '640px',
       laptop: '1008px',
@@ -242,12 +242,13 @@ module.exports = {
     },
     container: {
       padding: {
-        DEFAULT: '1rem',
-        sm: '2rem',
-        lg: '4rem',
-        xl: '5rem',
-        '2xl': '6rem',
+        DEFAULT: 'var(--bs-gutter-x, 0.75rem)',
+        sm: 'var(--bs-gutter-x, 2rem)',
+        lg: 'var(--bs-gutter-x, 4rem)',
+        xl: 'var(--bs-gutter-x, 5rem)',
+        xxl: 'var(--bs-gutter-x, 6rem)',
       },
+      center: true,
     },
     cursor: {
       auto: 'auto',
